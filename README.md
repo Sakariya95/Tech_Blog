@@ -35,6 +35,7 @@ n/a
 ## Additional Info:
 
 - Github: [Sakariya95](https://github.com/Sakariya95)
+- Github Challenge: [Tech Blog](https://github.com/Sakariya95/Tech_Blog)
 
 ## Questions and Contribution instructions:
 
